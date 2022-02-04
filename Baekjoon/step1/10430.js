@@ -8,7 +8,9 @@ const input = (
   .split(" ")
   .map(Number);
 
-console.log((input[0] + input[1]) % input[2]);
-console.log(((input[0] % input[2]) + (input[1] % input[2])) % input[2]);
-console.log((input[0] * input[1]) % input[2]);
-console.log(((input[0] % input[2]) * (input[1] % input[2])) % input[2]);
+const [A, B, C] = input;
+
+console.log((A + B) % C);
+console.log(((A % C) + (B % C)) % C);
+console.log((A * B) % C);
+console.log(((A % C) * (B % C)) % C);
