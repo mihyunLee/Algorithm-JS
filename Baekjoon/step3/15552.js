@@ -14,9 +14,8 @@ const stdin = (
 const count = Number(stdin[0]);
 let answer = "";
 
-for (let i = 1; i < count + 1; i++) {
-  const A = Number(stdin[i].split(" ")[0]);
-  const B = Number(stdin[i].split(" ")[1]);
-  answer += A + B + "\n";
+for (let i = 1; i <= count; i++) {
+  let num = stdin[i].split(" ");
+  answer += Number(num[0]) + Number(num[1]) + "\n";
 }
 console.log(answer);
