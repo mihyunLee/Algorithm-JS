@@ -6,7 +6,13 @@ const input = (
 ).split("\n");
 
 const count = input[0];
-const score = input[1].split(" ").sort((a, b) => b - a);
-const max = score[0];
+const score = input[1].split(" ");
+const max = Math.max(...score);
 
-console.log(score.map((a) => (a / max) * 100).reduce((a, b) => a + b) / count);
+let sum = 0;
+
+for (let i = 0; i < score.length; i++) {
+  sum += (score[i] / max) * 100;
+}
+
+console.log(sum / count);
