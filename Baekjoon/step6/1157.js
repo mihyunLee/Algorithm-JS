@@ -4,27 +4,20 @@ const input = (
     : `Mississipi`
 ).trim();
 
-const convertedStr = input.toUpperCase().split("").sort();
+const usageStatus = {};
 
-let count = 0;
-let max = 0;
-let maxStr = "";
+input
+  .toUpperCase()
+  .split("")
+  .forEach((key) => {
+    usageStatus[key] = (usageStatus[key] || 0) + 1;
+  });
 
-for (let i = 0; i < convertedStr.length; i++) {
-  if (i > 0 && convertedStr[i] !== convertedStr[i - 1]) {
-    count = 0;
-    count++;
-  } else {
-    count++;
-    if (max < count) {
-      max = count;
-      maxStr = convertedStr[i];
-    } else if (max === count) {
-      maxStr = "?";
-    } else {
-      maxStr = maxStr;
-    }
-  }
-}
+const sortedValue = Object.values(usageStatus).sort((a, b) => b - a);
+const maxValue = sortedValue[0];
+const maxKey =
+  sortedValue[0] === sortedValue[1]
+    ? "?"
+    : Object.keys(usageStatus).find((key) => usageStatus[key] === maxValue);
 
-console.log(maxStr);
+console.log(maxKey);
