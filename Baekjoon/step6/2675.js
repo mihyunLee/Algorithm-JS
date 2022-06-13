@@ -7,13 +7,13 @@ const input = (
 ).split("\n");
 
 const T = input[0];
-let answer = "";
 
 for (let i = 1; i <= T; i++) {
-  let R = input[i].trim()[0];
-  let [...S] = input[i].trim().split(" ")[1];
+  let answer = "";
+  let [R, S] = input[i].trim().split(" ");
 
-  answer += `${S.map((item) => item.repeat(R)).join("")}\n`;
+  for (let j = 0; j < S.length; j++) {
+    answer += S[j].repeat(R);
+  }
+  console.log(answer);
 }
-
-console.log(answer);
