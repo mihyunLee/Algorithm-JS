@@ -1,0 +1,42 @@
+## 🖥️ 프로그래머스 코딩 테스트 입문
+
+> 2023.12.12 ~ 2024.01.17
+
+## 🏷️ 한번 더 볼만한 문제
+
+- [세균 증식(문자열, 수학, 조건문, 정렬](https://school.programmers.co.kr/learn/courses/30/lessons/120910)
+- [제곱수 판별하기(문자열, 수학, 조건문, 정렬)](https://school.programmers.co.kr/learn/courses/30/lessons/120909)
+- [가위 바위 보(수학, 문자열, 해시, 완전탐색, 조건문)](https://school.programmers.co.kr/learn/courses/30/lessons/120839)
+- [개미 군단(수학, 문자열, 해시, 완전탐색, 조건문)](https://school.programmers.co.kr/learn/courses/30/lessons/120837)
+- [최댓값 만들기 (2)(수학, 시뮬레이션, 문자열, 사칙연산)](https://school.programmers.co.kr/learn/courses/30/lessons/120862)
+- [인덱스 바꾸기(문자열, 해시, 배열, 수학)](https://school.programmers.co.kr/learn/courses/30/lessons/120895)
+- [외계행성의 나이(배열, 구현 수학)](https://school.programmers.co.kr/learn/courses/30/lessons/120834)
+- [가까운 수(조건문, 반복문, 시뮬레이션, 문자열)](https://school.programmers.co.kr/learn/courses/30/lessons/120890)
+- [진료순서 정하기(배열 ,구현, 수학)](https://school.programmers.co.kr/learn/courses/30/lessons/120835)
+- [한 번만 등장한 문자(문자열, 해시, 배열, 수학)](https://school.programmers.co.kr/learn/courses/30/lessons/120896)
+- [컨트롤 제트(문자열, 배열, 사칙연산, 수학, 조건문)](https://school.programmers.co.kr/learn/courses/30/lessons/120853)
+- [7의 개수(문자열, 배열, 조건문)](https://school.programmers.co.kr/learn/courses/30/lessons/120912)
+- [소인수분해(문자열, 정렬, 사칙연산, 수학)](https://school.programmers.co.kr/learn/courses/30/lessons/120852)
+- [잘라서 배열로 저장하기(문자열, 배열, 조건문)](https://school.programmers.co.kr/learn/courses/30/lessons/120913)
+- [공 던지기(조건문, 배열 수학, 시뮬레이션)](https://school.programmers.co.kr/learn/courses/30/lessons/120843)
+- [문자열 계산하기(문자열, 수학, 배열, 조건문)](https://school.programmers.co.kr/learn/courses/30/lessons/120902)
+- [영어가 싫어요(문자열, 해시, 배열, 수학)](https://school.programmers.co.kr/learn/courses/30/lessons/120894)
+- [구슬을 나누는 경우의 수(수학, 문자열, 해시, 완전탐색, 조건문)](https://school.programmers.co.kr/learn/courses/30/lessons/120840)
+- [외계어 사전(문자열, 사칙연산, 시뮬레이션, 2차원배열, 수학, 배열)](https://school.programmers.co.kr/learn/courses/30/lessons/120869)
+- [캐릭터의 좌표(수학, 시뮬레이션, 문자열, 사칙연산)](https://school.programmers.co.kr/learn/courses/30/lessons/120861)
+- [직사각형 넓이 구하기(수학, 시뮬레이션, 문자열, 사칙연산)](https://school.programmers.co.kr/learn/courses/30/lessons/120860)
+- [로그인 성공?(배열, 정렬, 문자열)](https://school.programmers.co.kr/learn/courses/30/lessons/120883)
+- [치킨 쿠폰(수학, 시뮬레이션, 문자열, 조건문, 반복문)](https://school.programmers.co.kr/learn/courses/30/lessons/120884)
+- [유한소수 판별하기(dp, 수학, 조건문, 배열)](https://school.programmers.co.kr/learn/courses/30/lessons/120878)
+- [저주의 숫자3(
+  dp, 수학, 조건문, 배열)](https://school.programmers.co.kr/learn/courses/30/lessons/120871)
+- [문자열 밀기(시뮬레이션, 조건문, 수학)](https://school.programmers.co.kr/learn/courses/30/lessons/120921)
+- [다항식 더하기(수학, 시뮬레이션, 문자열, 사칙연산)](https://school.programmers.co.kr/learn/courses/30/lessons/120863)
+- [최빈값 구하기(사칙연산, 배열, 수학)](https://school.programmers.co.kr/learn/courses/30/lessons/120812)
+- [OX퀴즈(문자열, 수학, 조건문, 배열, 사칙연산)](https://school.programmers.co.kr/learn/courses/30/lessons/120907)
+- [연속된 수의 합(시뮬레이션, 조건문, 수학)](https://school.programmers.co.kr/learn/courses/30/lessons/120923)
+- [분수의 덧셈(사칙연산, 조건문, 배열)](https://school.programmers.co.kr/learn/courses/30/lessons/120808)
+- [안전지대(문자열, 사칙연산, 시뮬레이션, 2차원배열, 수학, 배열)](https://school.programmers.co.kr/learn/courses/30/lessons/120866)
+- [겹치는 선분의 길이(dp, 수학, 조건문, 배열)](https://school.programmers.co.kr/learn/courses/30/lessons/120876)
+- [평행(dp, 수학, 조건문, 배열)](https://school.programmers.co.kr/learn/courses/30/lessons/120875)
+- [옹알이(1)(배열, 정렬, 문자열)](https://school.programmers.co.kr/learn/courses/30/lessons/120956)
